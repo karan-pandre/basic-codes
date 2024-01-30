@@ -1,1 +1,12 @@
 hi hwo are you 
+git init
+
+git add .
+
+git commit -m " test this app"
+
+git remote add origin https://github.com/username/flutterapp.git
+
+git push or 
+
+git push --set-upstream origin master
